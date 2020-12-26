@@ -3,7 +3,7 @@
 apt-get -q update
 apt-get -q -y upgrade
 
-apt-get -q -y install cifs-utils openfortivpn ppp screen
+apt-get -q -y install cifs-utils openfortivpn ppp
 
 echo "host = mercury.medschl.cam.ac.uk
 port = 10443
