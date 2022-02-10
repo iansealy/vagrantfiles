@@ -8,5 +8,5 @@ apt-get -q -y install cifs-utils openfortivpn ppp
 echo "host = vpn.medschl.cam.ac.uk
 port = 10443
 username = is460
-trusted-cert = b10fe4bd3be20aa44cb9f2ca7ff2605661ca09705f1c360353344eb42ae3f404" \
+trusted-cert = 00f76c81174a4e061030db37806b04be6848f4e147250e5667be0e07c88e8100" \
 > /etc/openfortivpn/config
